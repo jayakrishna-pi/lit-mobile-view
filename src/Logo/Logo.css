@@ -1,0 +1,25 @@
+.logo{
+height:45px;
+width:70px;
+margin-left: 20px;
+margin-top: 10px;
+}
+.circle{
+ height:30px;
+width:30px;
+margin-right: 80px;
+
+    }
+.sent{
+height:30px;
+width:30px;
+margin-left: 120px;
+ }
+.logo-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+
+    
+}

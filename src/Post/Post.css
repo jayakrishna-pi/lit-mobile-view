@@ -1,0 +1,26 @@
+.post-text{
+    color: whitesmoke;
+    margin-left: 10px;
+    
+}
+.post-img{
+    height:40px;
+    width:40px;
+    margin-left: 20px;
+    border-radius: 30px;
+}
+.post-container{
+    display: flex;
+    flex-direction: row;
+    background-color: blueviolet;
+    width:360px;
+    height: 40px;
+    align-items: center;
+    border-radius: 7px;
+    margin-left: 10px;
+}
+.main-post{
+    height:200px;
+    width:380px;
+}
+

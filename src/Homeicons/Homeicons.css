@@ -1,0 +1,36 @@
+.img{
+    height:40px;
+    width:40px;
+    margin-left: 20px;
+    border-radius: 30px;
+}
+.home-container{
+    color:white;
+    background-color: blueviolet;
+    width:360px;
+    height: 40px;
+    border-radius: 7px;
+    margin-left: 10px;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.zuchi-text{
+    color:whitesmoke;
+    margin-left: 10px;
+}
+.home{
+    height:40px;
+    width:40px;
+    margin-right: 43px;
+}
+.profile{
+    height:34px;
+    width:40px;
+    border-radius: 15px;
+}
+.bottom-icons{
+    margin-top: 5px;
+}
+

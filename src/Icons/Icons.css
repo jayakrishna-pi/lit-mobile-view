@@ -1,0 +1,56 @@
+.like{
+    height:30px;
+    width:30px;
+    margin-left: 5px;
+}
+.dots{
+    height:20px;
+    width:20px;
+    margin-left: 50px;
+    margin-top:0px;
+    
+}
+.save{
+    margin-left:240px;
+    height:20px;
+    width:20px;
+}
+.forward{
+        height:25px;
+        width:25px;
+}
+.text-icons{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 0px;
+    margin-top: 0px;
+   
+}
+#rebal-text{
+    margin-left: 10px;
+    margin-right: 5px;
+    font-weight: 500;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-size: 13px;
+    
+}
+.comments{
+    color:white;
+    margin-left: 10px;
+    margin-top: 0px;
+    font-size: 13px;
+    margin-bottom: 0px;
+}
+#new-collection{
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-size: 13px;
+}
+.new-comment{
+    color:white;
+    margin-top: 0px;
+    font-size: 13px;
+    margin-left: 10px;
+}
